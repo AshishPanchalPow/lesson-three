@@ -1,4 +1,4 @@
-# lesson-three checkout
+# lesson-three checkout checkout
 ## change 1
 
 ## change hi change
